@@ -11,6 +11,6 @@
     <title>MyWebProject</title>
   </head>
   <body>
-  HELLO 计网二班唐举雄（计网计网计网，重要的事情说三遍）
+  计网二班唐举雄（计网计网计网，重要的事情说三遍）
   </body>
 </html>
